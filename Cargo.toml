@@ -3,6 +3,8 @@ name = "mh-sort"
 version = "0.1.0"
 edition = "2024"
 description = "Сортировка файлов по категориям и типам"
+license = "MIT"
+repository = "https://github.com/midnightheartsgames/MH-Sort"
 
 [dependencies]
 chrono = { version = "0.4.45", default-features = false, features = ["clock"] }

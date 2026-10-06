@@ -60,3 +60,7 @@ cargo build --release
 ```bash
 cargo test
 ```
+
+## Лицензия
+
+[MIT](LICENSE)
